@@ -1,1 +1,5 @@
-# mod_6_project
+# Pulsar Star Classification
+
+Pulsar stars are some of the most interesting structures in our universe. As a subset of Neutron stars, they exist somewhere between the typical condensed white dwarfs that stars like our sun will turn into at the end of they're life cycle, but aren't so dense that they're gravity reverses on itself, which results in a black hole. Pulsars are neutron stars that exhibit periodic radio signals that our telescopes on earth can read, but as there are many radio producing objects our our universe, separating these signals from the noise can be very complicated for human researchers. Our aim here is to utilize differing machine learning libraries, and find the most accurate one, for determining which of these periodic signals are pulsar stars that we should direct our telescopes towards for further research, and which signals are ambient noise.
+
+Our process began with some exploratory data analysis, 
